@@ -1,0 +1,53 @@
+Circuit: * C:\Users\Shashank\Desktop\Flyback\Flyback_converter.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+Gmin = 3.1742e-006
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.91467e-006
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 6.57701e-007
+vernier = 0.790123
+Gmin = 1.28327e-007
+vernier = 1
+Gmin = 1.3779e-008
+Gmin = 1.47951e-009
+Gmin = 1.58861e-010
+Gmin = 1.70576e-011
+Gmin = 1.83154e-012
+Gmin = 1.9666e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.000215447 to 0.000215448
+Heightened Def Con from 0.000642914 to 0.000642916
+Heightened Def Con from 0.000660787 to 0.000660788
+Heightened Def Con from 0.00114197 to 0.00114197
+
+Date: Tue Jan 15 04:11:54 2019
+Total elapsed time: 49.987 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3119976
+traniter = 3119319
+tranpoints = 823249
+accept = 604583
+rejected = 218670
+matrix size = 52
+fillins = 20
+solver = Normal
+Matrix Compiler1: 3.14 KB object code size  2.4/0.7/[0.4]
+Matrix Compiler2: off  [0.7]/1.5/0.8
+
